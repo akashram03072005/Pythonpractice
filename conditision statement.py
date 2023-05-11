@@ -17,7 +17,7 @@ a=int(input("enter the value of a"))
 if(a%3==0):
       print("a is divisble by 3")
 else:
-    print("d is not divisble by 3")
+    print("a is not divisble by 3")
 
 
         
