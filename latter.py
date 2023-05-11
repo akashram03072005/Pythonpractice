@@ -1,0 +1,13 @@
+print("\t\t\t\t\tLEAVE LATTER")
+print("From\n R.AKASH RAM\n MUTHIYALPET\n PUDUCHERRY,")
+print("\n")
+
+print("To\n THE PRINCIPAL\n Lawspet\n puducherry,")
+print("\n")
+print("Respected Sir/Madam")
+print("\t\tAs Iam suffering from feaver I can't able to attent the classes")
+print("so please grand me leave for 3 days ")
+print("\t\t\t\t\tTHANK YOU\t\t")
+print("\n")
+print("PLACE:PUDUCHERRY\t\t\t\t\t\tYOURS FAITHFULLY")
+print("DATE :aaaa\t\t\t\t\t\t\tAKASHRAM.R")
